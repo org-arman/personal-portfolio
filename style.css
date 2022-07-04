@@ -40,3 +40,9 @@ h1{
 
 }
 
+.drim-big{
+    margin-top: 20%;
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
